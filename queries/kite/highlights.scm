@@ -23,3 +23,6 @@
 (var) @variable
 (type_params (ident) @variable)
 (var_type (ident) @variable)
+
+; Literals
+(int) @number
