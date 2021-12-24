@@ -5,6 +5,7 @@
 (import_qualified) @keyword
 "let" @keyword
 "where" @keyword
+"type" @keyword
 
 ; Types (and modules)
 (module (module_ident) @constructor)
